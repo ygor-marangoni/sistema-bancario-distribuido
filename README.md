@@ -1,6 +1,7 @@
 # Trabalho 3 - Sistemas Distribuidos
 
 Projeto em Python para demonstrar comunicacao cliente-servidor, threads, concorrencia e sincronizacao.
+Link para o Vídeo: https://youtu.be/0ucedOOouSI
 
 ## Ideia da aplicacao
 
